@@ -1,2 +1,2 @@
 # python-pi
-Test
+This is practice use of git on Ubuntu
